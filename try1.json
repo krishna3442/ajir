@@ -1,0 +1,8 @@
+data = {
+    "satya": {
+        "name": "satya",
+        "age": 40,
+        "class":"btech",
+        "marks":100,
+    }
+}
